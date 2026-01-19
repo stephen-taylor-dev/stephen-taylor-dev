@@ -34,7 +34,6 @@ I enjoy working with a variety of technologies across the stack.
 ---
 
 ### ⚡ Fun Facts
-* **OS Preference:** I'm a Linux enthusiast and enjoy customizing desktop environments.
 * **Offline:** When I'm not coding, you can find me **running/hiking**
 * **Family:** Proud dad to 3 sons - mostly busy chasing them around!
 
